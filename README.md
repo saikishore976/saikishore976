@@ -179,7 +179,7 @@ Learn, iterate, optimize, repeat.
 
 🏆 Google Associate Cloud Engineer
 
-🏆 Google Data Analytics Professional Certificate
+🏆 Cisco Data Analytics Professional Certificate
 
 🏆 Google Generative AI Fundamentals
 
