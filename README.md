@@ -1,182 +1,240 @@
-<h1 align="center">Hi 👋, I'm Sai Kishore Pothula</h1>
+<div align="center">
 
-<h3 align="center">
-Cloud Engineer • DevOps Engineer • AI/MLOps Engineer
-</h3>
+# Sai Kishore Pothula
 
-<p align="center">
-Building scalable cloud infrastructure, automation platforms, CI/CD pipelines, and AI deployment systems.
+### Cloud Engineer • DevOps Engineer • AI/MLOps Engineer
+
+Building scalable cloud infrastructure, deployment automation, CI/CD pipelines, observability platforms, and production-ready AI systems.
+
+<p>
+<a href="https://www.linkedin.com/in/sai-kishore-p-589667204">LinkedIn</a> •
+<a href="mailto:saikishorep0123@gmail.com">Email</a> •
+<a href="https://github.com/saikishore976">GitHub</a>
 </p>
 
----
-
-# 🚀 About Me
-
-Cloud Engineer with experience designing, automating, and managing scalable cloud infrastructure on AWS, leveraging Infrastructure as Code (Terraform), CI/CD pipelines, and cloud-native services to improve reliability, security, and operational efficiency..
-
-My expertise spans:
-
-- ☁️ Cloud Infrastructure Engineering
-- ⚙️ DevOps & CI/CD Automation
-- 🐳 Containerization & Deployment
-- 📊 Monitoring & Observability
-- 🧠 AI/MLOps Engineering
-- 🐍 Python Automation
-
-I enjoy building systems that are:
-
-✔ Scalable
-
-✔ Automated
-
-✔ Observable
-
-✔ Reliable
-
-✔ Production Ready
-
-Currently focused on:
-
-- MLOps
-- AI Infrastructure
-- Cloud Automation
-- Platform Engineering
-- Kubernetes
-- Infrastructure as Code
+</div>
 
 ---
 
-# 💼 Professional Experience
+## About Me
 
-### Cloud Engineer
+I am a Cloud Engineer with 3+ years of experience building and automating cloud infrastructure, deployment pipelines, and monitoring solutions across AWS environments.
 
-**3+ Years Experience**
+My experience spans cloud engineering, infrastructure automation, DevOps, observability, and platform operations. I enjoy designing systems that are reliable, scalable, secure, and easy to maintain.
 
-Responsibilities included:
-
-- Infrastructure Automation
-- Terraform Development
-- AWS Resource Provisioning
-- CI/CD Pipeline Engineering
-- Docker Container Deployment
-- Monitoring & Alerting
-- Python Automation
-- Production Support
-- Linux Administration
-- Cloud Security Implementation
+Currently, I am expanding my expertise into AI Infrastructure and MLOps by building deployment pipelines, containerized ML services, and cloud-native AI platforms.
 
 ---
 
-# 🛠 Technical Stack
+## What I Do
 
-## Programming
+☁️ Design and automate cloud infrastructure
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+⚙️ Build CI/CD pipelines and deployment workflows
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🐳 Containerize applications using Docker
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+📊 Implement monitoring and observability solutions
 
----
+🐍 Develop automation tooling using Python
 
-## Cloud Platforms
+🚀 Deploy scalable cloud-native applications
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+🤖 Build AI/MLOps deployment pipelines
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+🔧 Improve operational efficiency through automation
 
 ---
 
-## DevOps & Infrastructure
+## Technical Expertise
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+### Cloud Platforms
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+### Infrastructure & DevOps
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
----
-
-## Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-
----
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
----
-
-## Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-# 📌 Featured Projects
-
-## 🚀 AutoDeploy Static Website on AWS
-
-Infrastructure-as-Code deployment platform using:
-
-- AWS S3
-- CloudFront
-- Route53
 - Terraform
+- Infrastructure as Code (IaC)
 - GitHub Actions
+- Jenkins
+- Docker
+- CI/CD Pipelines
 
-### Features
+### Programming
 
-- Automated provisioning
-- CDN delivery
-- Secure hosting
-- Version-controlled infrastructure
-- CI/CD deployment
+- Python
+- Bash
+- SQL
 
----
-
-## 📊 Cloud Monitoring Stack
-
-Monitoring solution built with:
+### Monitoring & Observability
 
 - Prometheus
 - Grafana
-- Docker
+- Cloud Monitoring
+- Alerting & Logging
 
-### Capabilities
+### Databases
 
-- Metrics collection
+- PostgreSQL
+- MySQL
+
+### AI & MLOps
+
+- Machine Learning Lifecycle
+- Model Deployment
+- Containerized ML Services
+- REST API Integration
+- Deployment Automation
+
+---
+
+# Featured Projects
+
+## AWS Infrastructure Deployment Platform
+
+Provisioned and automated AWS infrastructure using Terraform and GitHub Actions.
+
+### Highlights
+
+- Infrastructure as Code implementation
+- Automated provisioning workflows
+- S3 static website hosting
+- CloudFront CDN integration
+- Route53 DNS automation
+- Version-controlled infrastructure
+- CI/CD deployment pipeline
+
+**Tech Stack**
+
+`AWS` `Terraform` `GitHub Actions`
+
+---
+
+## Cloud Observability Platform
+
+Implemented a monitoring solution providing visibility into infrastructure health and operational performance.
+
+### Highlights
+
+- Metrics collection and aggregation
 - Dashboard visualization
-- Alerting
+- Alerting workflows
 - Infrastructure monitoring
 - Service health tracking
+- Performance analysis
+
+**Tech Stack**
+
+`Prometheus` `Grafana` `Docker`
 
 ---
 
-## 🤖 AI/MLOps Platform (In Progress)
+## AI Model Deployment Pipeline
 
-Building production-ready ML deployment workflows:
+Designed reproducible deployment workflows for machine learning models using cloud-native engineering principles.
 
-- Model Packaging
-- Dockerized Inference
-- REST APIs
-- CI/CD Integration
-- Monitoring
-- Automated Deployment
+### Highlights
+
+- Dockerized model deployment
+- REST API integration
+- Automated CI/CD workflows
+- Environment reproducibility
+- Monitoring integration
+- Deployment automation
+
+**Tech Stack**
+
+`Python` `Docker` `GitHub Actions`
 
 ---
 
-# 📈 GitHub Statistics
+# Engineering Principles
+
+### Infrastructure as Code First
+
+Everything reproducible, version-controlled, and automated.
+
+### Automate Repetitive Work
+
+Reduce operational overhead through tooling and automation.
+
+### Reliability Matters
+
+Build systems designed for stability, scalability, and recovery.
+
+### Observability by Default
+
+Metrics, monitoring, and alerting should never be optional.
+
+### Continuous Improvement
+
+Learn, iterate, optimize, repeat.
+
+---
+
+# Certifications
+
+🏆 Google Associate Cloud Engineer
+
+🏆 Google Data Analytics Professional Certificate
+
+🏆 Google Generative AI Fundamentals
+
+---
+
+# Current Focus Areas
+
+### Cloud Engineering
+
+- Advanced AWS Architectures
+- Cloud Automation
+- Infrastructure Design
+
+### Platform Engineering
+
+- Internal Developer Platforms
+- Deployment Automation
+- Infrastructure Tooling
+
+### AI/MLOps
+
+- Model Deployment
+- ML Pipelines
+- AI Infrastructure
+- LLM Applications
+- Production AI Systems
+
+---
+
+# Open To Opportunities
+
+I am interested in opportunities involving:
+
+- Cloud Engineering
+- DevOps Engineering
+- Platform Engineering
+- Site Reliability Engineering
+- Infrastructure Engineering
+- AI/MLOps Engineering
+
+### Open To
+
+✔ Full-Time Roles
+
+✔ Graduate Opportunities
+
+✔ Entry-Level Engineering Roles
+
+✔ Early Career Programs
+
+✔ Cloud & DevOps Positions
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -186,10 +244,6 @@ Building production-ready ML deployment workflows:
 
 </p>
 
----
-
-# 🔥 Contribution Streak
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikishore976&theme=tokyonight"/>
@@ -198,92 +252,28 @@ Building production-ready ML deployment workflows:
 
 ---
 
-# 🎯 Current Learning Roadmap
+# Connect With Me
 
-## Cloud Native
+📧 Email
 
-- Kubernetes
-- Helm
-- ArgoCD
-- EKS
+**saikishorep0123@gmail.com**
 
-## MLOps
+💼 LinkedIn
 
-- MLflow
-- Kubeflow
-- Feature Stores
-- Model Monitoring
+**linkedin.com/in/sai-kishore-p-589667204**
 
-## AI Engineering
+💻 GitHub
 
-- LLM Deployment
-- RAG Systems
-- Vector Databases
-- AI Infrastructure
+**github.com/saikishore976**
+
+📍 Plano, Texas, USA
 
 ---
 
-# 🏆 Certifications
+<div align="center">
 
-### Google Associate Cloud Engineer
-
-Cloud architecture, deployment, monitoring, IAM and operations.
-
-### Cisco Data Analytics Professional
-
-Data processing, visualization and analytics.
-
-### Google Generative AI Fundamentals
-
-Generative AI concepts and implementation fundamentals.
-
----
-
-# 📚 Currently Building
-
-### Infrastructure Projects
-
-- AWS Automation Framework
-- Terraform Modules
-- CI/CD Pipelines
-
-### AI Projects
-
-- MLOps Platform
-- AI Deployment Systems
-- LLM Applications
-
-### Open Source
-
-- Terraform Contributions
-- Monitoring Tooling
-- Cloud Automation Utilities
-
----
-
-# 🤝 Let's Connect
-
-📧 Email:
-saikishorep0123@gmail.com
-
-💼 LinkedIn:
-linkedin.com/in/sai-kishore-p-589667204
-
-🌎 Location:
-Plano, Texas, USA
-
----
-
-# 💡 Engineering Philosophy
-
-> Automate repetitive work.
->
-> Build reliable systems.
->
-> Monitor everything.
->
-> Continuously improve.
-
----
+### "Build it. Automate it. Monitor it. Improve it."
 
 ⭐ Thanks for visiting my profile.
+
+</div>
