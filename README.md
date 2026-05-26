@@ -12,7 +12,7 @@ Building scalable cloud infrastructure, automation platforms, CI/CD pipelines, a
 
 # 🚀 About Me
 
-I am a Cloud Engineer  of experience designing, automating, and supporting cloud infrastructure across AWS environments.
+Cloud Engineer with experience designing, automating, and managing scalable cloud infrastructure on AWS, leveraging Infrastructure as Code (Terraform), CI/CD pipelines, and cloud-native services to improve reliability, security, and operational efficiency..
 
 My expertise spans:
 
